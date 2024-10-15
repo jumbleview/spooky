@@ -1,10 +1,10 @@
 # Spooky
-![image](./images/ezgif.com-gif-maker.gif)
+![image](./PXL_20241015_141216566_acr.jpg)
 
-It is Halloween decoration project: image of ghost changing intensity of its 
-elements brightness controlled by Attiny85 chip.  Ghost body is presented by 
+It is Halloween decoration project: image of ghost changing  of its 
+LED elements lights controlled by Attiny85 chip.  Ghost body is presented by 
 two LED Flexible Silicone Neon-Like 1 Meter Warm White LED Strips. 
-Face elements: eyes an mouth represented by two round semi-circle backlight LED(50mm) modules and one large backlight modul. All these
+Face elements: eyes and mouth represented by two round semi-circle backlight LED(50mm) modules and one large backlight module. All these
 components can be found at https://www.adafruit.com/.
 
 ## Circuit 
